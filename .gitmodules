@@ -1,0 +1,6 @@
+[submodule "idf"]
+	path = idf
+	url = https://github.com/espressif/esp-idf.git
+[submodule "app/components/fastled/libfastled"]
+	path = app/components/fastled/libfastled
+	url = https://github.com/FastLED/FastLED
